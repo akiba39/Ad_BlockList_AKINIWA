@@ -1,20 +1,36 @@
+! ========================================
 ! Title: Ad_BlockList_AKINIWA
-! Homepage: xxx
-!
-! Lastupdate: 2026-07-17
-!
+! HomePage: https://akiniwa.com
+! LastupDate: 2026-07-17
+! ========================================
 
+! ----------------------------
+! LINEアプリ
+! ----------------------------
+
+! Yahoo
 ||im.c.yimg.jp^
+
+! 共通
 ||a.line.me^
-||obs.line-scdn.net^
 ||gw.line.naver.jp^
+
+! CDN（画像）
+||obs.line-scdn.net^
 ||ad.line-scdn.net^
 ||scdn.line-apps.com^
+
+! VOOM
 ||linevoom.line.me^
 ||voom-assets.line-scdn.net^
 ||voom-obs.line-scdn.net^
+
+! NEWS
 ||ch-news.line-apps.com^
+
+! ミニアプリ
 ||square-api.line.me^
+
+! イベント計測
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
-||ad.line-scdn.net^
