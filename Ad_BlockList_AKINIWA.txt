@@ -37,7 +37,7 @@
 ||crs-hometab-event.line.me^
 
 ! データ収集
-!||legy-jp-addr-ds.line-apps.com^
+||legy-jp-addr-ds.line-apps.com^
 ||ly.my.sentry.io^
 
 ! ========================================
