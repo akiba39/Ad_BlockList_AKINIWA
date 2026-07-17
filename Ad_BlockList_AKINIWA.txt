@@ -9,7 +9,7 @@
 ! ----------------------------
 
 ! ブロック非推奨
-!||line-scdn.net^
+||line-scdn.net^
 !||line.me^
 !||ch-news.line-apps.com^
 !||legy-jp-addr-ds.line-apps.com^
