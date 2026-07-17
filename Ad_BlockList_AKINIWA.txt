@@ -1,0 +1,20 @@
+! Title: Ad_BlockList_AKINIWA
+! Homepage: xxx
+!
+! Lastupdate: 2026-07-17
+!
+
+||im.c.yimg.jp^
+||a.line.me^
+||obs.line-scdn.net^
+||gw.line.naver.jp^
+||ad.line-scdn.net^
+||scdn.line-apps.com^
+||linevoom.line.me^
+||voom-assets.line-scdn.net^
+||voom-obs.line-scdn.net^
+||ch-news.line-apps.com^
+||square-api.line.me^
+||crs-event.line.me^
+||crs-hometab-event.line.me^
+||ad.line-scdn.net^
