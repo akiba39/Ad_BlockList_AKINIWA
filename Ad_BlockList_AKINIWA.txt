@@ -23,18 +23,18 @@
 ! CDN（画像）
 ||obs.line-scdn.net^
 ||ad.line-scdn.net^
-!||scdn.line-apps.com^
-!||square-api.line.me^
-!||landpress-content.line-scdn.net^
+||scdn.line-apps.com^
+||square-api.line.me^
+||landpress-content.line-scdn.net^
 
 ! VOOM
-||linevoom.line.me^
-||voom-assets.line-scdn.net^
-||voom-obs.line-scdn.net^
+!||linevoom.line.me^
+!||voom-assets.line-scdn.net^
+!||voom-obs.line-scdn.net^
 
 ! イベント計測
-||crs-event.line.me^
-||crs-hometab-event.line.me^
+!||crs-event.line.me^
+!||crs-hometab-event.line.me^
 
 ! データ収集
 ||legy-jp-addr-ds.line-apps.com^
