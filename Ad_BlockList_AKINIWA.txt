@@ -38,7 +38,7 @@
 
 ! データ収集
 ||legy-jp-addr-ds.line-apps.com^
-||ly.my.sentry.io^
+!||ly.my.sentry.io^
 
 ! ========================================
 ! 検証フェーズ
