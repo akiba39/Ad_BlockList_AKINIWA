@@ -39,3 +39,19 @@
 ! データ収集
 ||legy-jp-addr-ds.line-apps.com^
 ||ly.my.sentry.io^
+
+! ========================================
+! 検証フェーズ
+! ========================================
+
+! ホームカード関連候補
+||home.line.me^
+
+! レコメンド関連
+||recommend.line.me^
+
+! コンテンツ配信
+||contents.line.me^
+
+! フィード
+||feed.line.me^
