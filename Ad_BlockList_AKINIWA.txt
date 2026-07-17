@@ -26,7 +26,7 @@
 ||voom-obs.line-scdn.net^
 
 ! NEWS
-||ch-news.line-apps.com^
+! ||ch-news.line-apps.com^
 
 ! ミニアプリ
 ||square-api.line.me^
