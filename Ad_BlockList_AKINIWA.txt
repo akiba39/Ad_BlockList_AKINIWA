@@ -14,18 +14,18 @@
 !||ch-news.line-apps.com^
 
 ! Yahoo
-||im.c.yimg.jp^
+!||im.c.yimg.jp^
 
 ! 共通
-||a.line.me^
-||gw.line.naver.jp^
+!||a.line.me^
+!||gw.line.naver.jp^
 
 ! CDN（画像）
-||obs.line-scdn.net^
-||ad.line-scdn.net^
-||scdn.line-apps.com^
-||square-api.line.me^
-||landpress-content.line-scdn.net^
+!||obs.line-scdn.net^
+!||ad.line-scdn.net^
+!||scdn.line-apps.com^
+!||square-api.line.me^
+!||landpress-content.line-scdn.net^
 
 ! VOOM
 !||linevoom.line.me^
@@ -37,8 +37,8 @@
 !||crs-hometab-event.line.me^
 
 ! データ収集
-||legy-jp-addr-ds.line-apps.com^
-||ly.my.sentry.io^
+!||legy-jp-addr-ds.line-apps.com^
+!||ly.my.sentry.io^
 
 ! ========================================
 ! 検証フェーズ
