@@ -25,12 +25,22 @@
 ||voom-assets.line-scdn.net^
 ||voom-obs.line-scdn.net^
 
-! NEWS
-! ||ch-news.line-apps.com^
-
 ! ミニアプリ
 ||square-api.line.me^
 
 ! イベント計測
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
+
+! ===== NEWS TEST =====
+! Test1
+||news.line.me^
+
+! Test2
+||ch-news.line-apps.com^
+
+! Test3
+||landpress-content.line-scdn.net^
+
+! Test4
+||obs.line-scdn.net^
