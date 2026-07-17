@@ -21,8 +21,8 @@
 ||gw.line.naver.jp^
 
 ! CDN（画像）
-||obs.line-scdn.net^
-||ad.line-scdn.net^
+!||obs.line-scdn.net^
+!||ad.line-scdn.net^
 ||scdn.line-apps.com^
 ||square-api.line.me^
 ||landpress-content.line-scdn.net^
