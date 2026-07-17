@@ -8,6 +8,11 @@
 ! LINEアプリ
 ! ----------------------------
 
+! ブロック非推奨
+!||line-scdn.net^
+!||line.me^
+!||ch-news.line-apps.com^
+
 ! Yahoo
 ||im.c.yimg.jp^
 
@@ -19,28 +24,18 @@
 ||obs.line-scdn.net^
 ||ad.line-scdn.net^
 ||scdn.line-apps.com^
+||square-api.line.me^
+||landpress-content.line-scdn.net^
 
 ! VOOM
 ||linevoom.line.me^
 ||voom-assets.line-scdn.net^
 ||voom-obs.line-scdn.net^
 
-! ミニアプリ
-||square-api.line.me^
-
 ! イベント計測
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
 
-! ===== NEWS TEST =====
-! Test1
-! ||news.line.me^
-
-! Test2
-||ch-news.line-apps.com^
-
-! Test3
-||landpress-content.line-scdn.net^
-
-! Test4
-||obs.line-scdn.net^
+! データ収集
+||legy-jp-addr-ds.line-apps.com^
+||ly.my.sentry.io^
