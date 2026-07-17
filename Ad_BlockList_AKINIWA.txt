@@ -12,6 +12,8 @@
 !||line-scdn.net^
 !||line.me^
 !||ch-news.line-apps.com^
+!||legy-jp-addr-ds.line-apps.com^
+!||ly.my.sentry.io^
 
 ! Yahoo
 ||im.c.yimg.jp^
@@ -35,10 +37,6 @@
 ! イベント計測
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
-
-! データ収集
-!||legy-jp-addr-ds.line-apps.com^
-!||ly.my.sentry.io^
 
 ! ========================================
 ! 検証フェーズ
