@@ -14,7 +14,7 @@
 !||ch-news.line-apps.com^
 
 ! Yahoo
-!||im.c.yimg.jp^
+||im.c.yimg.jp^
 
 ! 共通
 !||a.line.me^
