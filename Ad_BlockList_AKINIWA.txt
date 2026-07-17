@@ -17,8 +17,8 @@
 ||im.c.yimg.jp^
 
 ! 共通
-!||a.line.me^
-!||gw.line.naver.jp^
+||a.line.me^
+||gw.line.naver.jp^
 
 ! CDN（画像）
 !||obs.line-scdn.net^
