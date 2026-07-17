@@ -34,7 +34,7 @@
 
 ! ===== NEWS TEST =====
 ! Test1
-||news.line.me^
+! ||news.line.me^
 
 ! Test2
 ||ch-news.line-apps.com^
