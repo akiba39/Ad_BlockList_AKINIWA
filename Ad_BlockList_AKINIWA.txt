@@ -28,13 +28,13 @@
 ||landpress-content.line-scdn.net^
 
 ! VOOM
-!||linevoom.line.me^
-!||voom-assets.line-scdn.net^
-!||voom-obs.line-scdn.net^
+||linevoom.line.me^
+||voom-assets.line-scdn.net^
+||voom-obs.line-scdn.net^
 
 ! イベント計測
-!||crs-event.line.me^
-!||crs-hometab-event.line.me^
+||crs-event.line.me^
+||crs-hometab-event.line.me^
 
 ! データ収集
 !||legy-jp-addr-ds.line-apps.com^
